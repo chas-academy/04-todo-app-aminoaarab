@@ -7,7 +7,7 @@
 
 <footer class="site-footer">
     <div class="small-container">
-        <p class="text-center">Made by <a href="#">Amin Aarab</a></p>
+        <p class="text-center">Made by <a href="https://github.com/chas-academy/04-todo-app-aminoaarab">Amin Aarab</a></p>
     </div>
 </footer>
 
